@@ -1,0 +1,8 @@
+[09-Jul-2014 16:24:19 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/com8/public_html/toko/system/database/drivers/mysql/mysql_driver.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/com8/public_html/toko/system/database/DB.php on line 140
+[21-Jul-2014 08:49:25 UTC] PHP Fatal error:  Call to undefined function http://085725827328.com//toko/() in /home/com8/public_html/toko/application/views/master/v_barang.php on line 20
+[21-Jul-2014 08:49:33 UTC] PHP Fatal error:  Call to undefined function http://085725827328.com//toko/() in /home/com8/public_html/toko/application/views/master/v_barang.php on line 20
+[21-Jul-2014 09:15:49 UTC] PHP Fatal error:  Call to undefined function http://085725827328.com//toko/() in /home/com8/public_html/toko/application/views/barang/v_chat.php on line 36
+[15-Aug-2014 05:32:17 UTC] PHP Fatal error:  Call to undefined function http://085725827328.com//toko/() in /home/com8/public_html/toko/application/views/barang/v_chat.php on line 36
+[01-Sep-2014 11:00:00 UTC] PHP Fatal error:  Call to undefined function http://085725827328.com//toko/() in /home/com8/public_html/toko/application/views/barang/v_chat.php on line 36
+[01-Sep-2014 11:19:52 UTC] PHP Fatal error:  Call to undefined function http://085725827328.com//toko/() in /home/com8/public_html/toko/application/views/barang/v_chat.php on line 36
+[01-Sep-2014 11:57:08 UTC] PHP Fatal error:  Call to undefined function http://085725827328.com//toko/() in /home/com8/public_html/toko/application/views/barang/v_chat.php on line 36
